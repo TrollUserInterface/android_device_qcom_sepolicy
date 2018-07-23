@@ -6,4 +6,4 @@ BOARD_SEPOLICY_DIRS := \
        device/qcom/sepolicy/test \
        device/qcom/sepolicy/$(TARGET_BOARD_PLATFORM)
 
--include vendor/viper/sepolicy/qcom/sepolicy.mk
+-include vendor/ecem/sepolicy/qcom/sepolicy.mk
